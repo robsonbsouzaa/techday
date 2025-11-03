@@ -1,4 +1,4 @@
-# TechDay Jaguariúna
+# TechDay Jaguariúna 08-11-2025
 
 ## Programação (4h)
 - [Checkin](https://forms.gle/5GBVfvFx11GfvKxp8)
